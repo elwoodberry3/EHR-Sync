@@ -4,5 +4,5 @@
 
 # EHR-Sync
 ### Healthcare Operations & Medical Billing 
-Bidirectional EHR/EMR sync pipeline: bridges fragmented healthcare databases, mHealth apps, and lab systems through n8n HTTP nodes with schema normalization, HIPAA-aware field masking, and department-level routing logic.  
+Bridges fragmented healthcare databases, mHealth apps, and lab systems to sync records securely between departments.   
 [See Full Build](https://adbyrdllc.wixstudio.com/iautomateshit/demos) 
